@@ -1,0 +1,13 @@
+h1 {
+    font-style:oblique;
+    color:#ECF5FF;
+    position:absolute;
+    left:480px;
+    right:100px;
+    top:70px;}
+li{font-size: 14pt;}
+a{
+  overflow:hidden;
+}
+.a img{transform:scale(1,1);transition: all 1s ease-out;}
+.a img:hover{transform:scale(1.2,1.2);}
